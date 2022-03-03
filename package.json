@@ -1,0 +1,17 @@
+{
+  "name": "eslint-typescript-benestudio",
+  "version": "0.0.1",
+  "description": "Benestudio specific base linting rules for ESLint",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --fix . --ext .js,.ts,.tsx"
+  },
+  "author": "Bene Studio (https://benestudio.co)",
+  "license": "MIT",
+  "dependencies": {
+    "@benestudioco/eslint-config-benestudio": "^0.1.4",
+    "@typescript-eslint/eslint-plugin": "^5.13.0",
+    "@typescript-eslint/parser": "^5.13.0",
+    "typescript": "^4.6.0"
+  }
+}

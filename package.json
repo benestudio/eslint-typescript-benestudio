@@ -1,7 +1,7 @@
 {
-  "name": "eslint-typescript-benestudio",
-  "version": "0.0.2",
-  "description": "Benestudio specific base linting rules for ESLint",
+  "name": "@benestudioco/eslint-config-benestudio-typescript",
+  "version": "0.0.3",
+  "description": "Benestudio specific typescript linting rules for ESLint",
   "main": "index.js",
   "scripts": {
     "lint": "eslint --fix . --ext .js,.ts,.tsx",

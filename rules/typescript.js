@@ -9,6 +9,12 @@ module.exports = {
     'no-use-before-define': 'off',
     '@typescript-eslint/no-use-before-define': ['error'],
 
+    'no-useless-constructor': 'off',
+    '@typescript-eslint/no-useless-constructor': ['error'],
+
+    'no-empty-function': 'off',
+    '@typescript-eslint/no-empty-function': ['error'],
+
     '@typescript-eslint/no-explicit-any': 'error',
 
     // Replace 'camelcase' rule with '@typescript-eslint/naming-convention'

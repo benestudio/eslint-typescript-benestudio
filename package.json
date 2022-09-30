@@ -1,6 +1,6 @@
 {
   "name": "@benestudioco/eslint-config-benestudio-typescript",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Benestudio specific typescript linting rules for ESLint",
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,9 @@
   "author": "Bene Studio (https://benestudio.co)",
   "license": "MIT",
   "dependencies": {
-    "@benestudioco/eslint-config-benestudio": "^0.1.4",
-    "@typescript-eslint/eslint-plugin": "^5.13.0",
-    "@typescript-eslint/parser": "^5.13.0",
-    "typescript": "^4.5.0"
+    "@benestudioco/eslint-config-benestudio": "^0.1.5",
+    "@typescript-eslint/eslint-plugin": "^5.38.1",
+    "@typescript-eslint/parser": "^5.38.1",
+    "typescript": "^4.8.4"
   }
 }

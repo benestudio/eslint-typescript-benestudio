@@ -17,6 +17,8 @@ module.exports = {
 
     '@typescript-eslint/no-explicit-any': 'error',
 
+    '@typescript-eslint/no-non-null-assertion': 'error',
+
     // Replace 'camelcase' rule with '@typescript-eslint/naming-convention'
     // https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/naming-convention.md
     camelcase: 'off',
